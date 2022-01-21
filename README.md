@@ -1,4 +1,4 @@
-Webapp with Created With React And SpringBoot
+Webapp Created With React And SpringBoot
 
 Upload a csv file into database and perform CRUD operations.
 
